@@ -1,7 +1,7 @@
 var components = {
     num_of_rows : 10,
     num_of_cols : 10,
-    num_of_bombs : 75,
+    num_of_bombs : 1,
     bomb : '💣',
     alive : true,
     colors : {1: 'blue', 2: 'green', 3: 'red', 4: 'purple', 5: 'maroon', 6: 'turquoise', 7: 'black', 8: 'grey'}
